@@ -5,12 +5,10 @@ Simple Hash Identifier
 ..* Simple! Just open it using
 ```
 python3 hashID.py
-
 ```
 ..* or (if you are on linux of course)
 ```
 ./hashID.py
-
 ```
 
 ## How it works
