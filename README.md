@@ -1,0 +1,2 @@
+# HashID
+Simple Hash Identifier
