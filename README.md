@@ -12,4 +12,4 @@ python3 hashID.py
 ```
 
 ## How it works
-* So this Hash Identifier Works out by taking the value of the hash given and multiplying it by 4 thus giving us the bits on said hash. It then proceeds to compare it against certain lengths defined by this program.
+* So this Hash Identifier Works out by taking the value of the hash given and multiplying it by 4 thus giving us the bits on said hash. It then proceeds to compare it against certain lengths defined by this program. It can also Detect Hash Salt/Pass
