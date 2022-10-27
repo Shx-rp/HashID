@@ -8,7 +8,6 @@ def main():
 
     hashSaltCheck = hash.split(hashSalt) [0]
     hashEncoded = hashSaltCheck.encode("utf-8")
-    #print(len(hashEncoded)*4)
 
     print("-------------------------------------")
     if len(hashEncoded)*4 == 128 and bytes.isupper(hashEncoded) == False :
